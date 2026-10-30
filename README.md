@@ -7,7 +7,7 @@ This repository exposes the RESTful API consumed by the Vigilia frontend applica
 ## Tech stack
 
 - Java 27
-- Spring Boot 4.1.1 (Spring Web, Spring Data JPA, Validation)
+- Spring Boot 4.1.2 (Spring Web, Spring Data JPA, Validation)
 - MySQL
 - SpringDoc OpenAPI (Swagger UI)
 - Lombok
@@ -26,6 +26,9 @@ Organized by bounded context under `com.codenova.vigilia`, following Domain-Driv
 | `iam` | Identity and Access Management |
 | `shared` | Shared kernel: naming strategy, result pattern and error handling |
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Team
 
@@ -37,3 +40,7 @@ CodeNova, 1ASI0729 Open Source Application Development, UPC, 2026-20.
 | Fernanda Ysabella Diaz Vargas | [@Fern9901](https://github.com/Fern9901) |
 | Matthias Alonso Romero Veliz | [@AlonsoVelizUpc](https://github.com/AlonsoVelizUpc) |
 | Mateo Paolo Salazar Miranda | [@mateossm](https://github.com/mateossm) |
+
+## License
+
+MIT. See [LICENSE.md](LICENSE.md).
