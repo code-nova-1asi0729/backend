@@ -39,7 +39,6 @@ CodeNova, 1ASI0729 Open Source Application Development, UPC, 2026-20.
 | Arturo Fernando Valladolid Jiménez (Team Leader) | [@artuvall](https://github.com/artuvall) |
 | Fernanda Ysabella Diaz Vargas | [@Fern9901](https://github.com/Fern9901) |
 | Matthias Alonso Romero Veliz | [@AlonsoVelizUpc](https://github.com/AlonsoVelizUpc) |
-| Mateo Paolo Salazar Miranda | [@mateossm](https://github.com/mateossm) |
 
 ## License
 
