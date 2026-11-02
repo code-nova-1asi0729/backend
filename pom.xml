@@ -40,11 +40,6 @@
             <name>Matthias Alonso Romero Veliz</name>
             <email>u20241b178@upc.edu.pe</email>
         </developer>
-        <developer>
-            <id>mateossm</id>
-            <name>Mateo Paolo Salazar Miranda</name>
-            <email>u202315171@upc.edu.pe</email>
-        </developer>
     </developers>
     <scm>
         <connection>scm:git:https://github.com/code-nova-1asi0729/backend.git</connection>
